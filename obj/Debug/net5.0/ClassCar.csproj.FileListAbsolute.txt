@@ -1,0 +1,16 @@
+C:\Users\ardai\source\repos\c#\ClassCar\bin\Debug\net5.0\ClassCar.exe
+C:\Users\ardai\source\repos\c#\ClassCar\bin\Debug\net5.0\ClassCar.deps.json
+C:\Users\ardai\source\repos\c#\ClassCar\bin\Debug\net5.0\ClassCar.runtimeconfig.json
+C:\Users\ardai\source\repos\c#\ClassCar\bin\Debug\net5.0\ClassCar.runtimeconfig.dev.json
+C:\Users\ardai\source\repos\c#\ClassCar\bin\Debug\net5.0\ClassCar.dll
+C:\Users\ardai\source\repos\c#\ClassCar\bin\Debug\net5.0\ref\ClassCar.dll
+C:\Users\ardai\source\repos\c#\ClassCar\bin\Debug\net5.0\ClassCar.pdb
+C:\Users\ardai\source\repos\c#\ClassCar\obj\Debug\net5.0\ClassCar.csprojAssemblyReference.cache
+C:\Users\ardai\source\repos\c#\ClassCar\obj\Debug\net5.0\ClassCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardai\source\repos\c#\ClassCar\obj\Debug\net5.0\ClassCar.AssemblyInfoInputs.cache
+C:\Users\ardai\source\repos\c#\ClassCar\obj\Debug\net5.0\ClassCar.AssemblyInfo.cs
+C:\Users\ardai\source\repos\c#\ClassCar\obj\Debug\net5.0\ClassCar.csproj.CoreCompileInputs.cache
+C:\Users\ardai\source\repos\c#\ClassCar\obj\Debug\net5.0\ClassCar.dll
+C:\Users\ardai\source\repos\c#\ClassCar\obj\Debug\net5.0\ref\ClassCar.dll
+C:\Users\ardai\source\repos\c#\ClassCar\obj\Debug\net5.0\ClassCar.pdb
+C:\Users\ardai\source\repos\c#\ClassCar\obj\Debug\net5.0\ClassCar.genruntimeconfig.cache
